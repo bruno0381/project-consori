@@ -1,0 +1,81 @@
+.container {
+    width: 100%;
+    height: 600px;
+    gap: 94px;
+    margin-top: 30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.foto__consorcio {
+    width: 522px;
+    height: 508px;
+    top: 91px;
+    left: 162px;
+    padding: 15px;
+    gap: 40px;
+
+    display: flex;
+    justify-content: left;
+
+}
+
+.button {
+    width: 388px;
+    height: 48px;
+    top: 631px;
+    left: 215px;
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 12px;
+    border: none;
+    padding: 12px 24px 12px 24px;
+    background-color: #5271FF;
+    color: #ffff;
+    gap: 8px;
+    margin: 30px;
+
+    
+    
+}
+
+.consorcio {
+    width: 497px;
+    height: 640px;
+    left: 783px;
+    gap: 24px;
+   
+    
+}
+
+.consorcio h2 {
+    font-family: Outfit, sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 65px;
+    color: #5271FF;
+    padding: 15px;
+    
+}
+
+.consorcio p {
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 15px;
+}
+
+span {
+    color: #5271FF;
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}

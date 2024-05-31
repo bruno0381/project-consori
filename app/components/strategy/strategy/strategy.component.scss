@@ -1,0 +1,107 @@
+.container {
+    width: 100%;
+    height: 666px;
+    margin-top: 100px;
+    gap: 50px;
+    
+
+    display: flex;
+}
+
+.text_contemplacao h2 {
+    font-family: Outfit;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 65.52px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #5271FF;
+    margin: 45px;
+
+}
+
+.foto__contemplacao {
+    width: 883px;
+    height: 623px;
+    top: 43px;
+    left: -285px;
+}
+
+.content {
+    width: 706px;
+    height: 643px;
+    left: 688px;
+    gap: 35px;
+}
+
+.frame {
+    width: 706px;
+    height: 110px;
+    padding: 10px;
+    gap: 12px;
+
+    display: flex;
+}
+
+.frame p {
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.paragraf {
+    width: 473px;
+    height: 90px;
+}
+
+.sorteio {
+    width: 626px;
+    height: 30px;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.icons {
+    width: 48px;
+    height: 48px;
+   
+}
+
+.toys {
+    width: 706px;
+    height: 68px;
+    padding: 10px;
+    gap: 12px;
+
+    display: flex;
+}
+
+span {
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color:  #5271FF;
+}
+
+.buttons {
+    width: 388px;
+    height: 48px;
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: #5271FF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 12px;
+    
+    
+    
+}
+
